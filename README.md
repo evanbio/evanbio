@@ -1,33 +1,41 @@
-<!---
-chriswang001121/chriswang001121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Evan Zhou! 🌟
 
-# Hi there! 👋 I'm Chris Wang 😄
-
-Welcome to my little corner on GitHub! 🚀 I'm **Chris Wang**, a **pharmacy** professional from China 🇨🇳, diving into the exciting worlds of **bioinformatics** and **Python programming**! 🧬💻
-
-## About Me 🧑‍🔬
-- 🎓 **Pharmacy Major** with a passion for discovering new drug targets and biomarkers.
-- 🧠 Currently self-learning **Bioinformatics** and coding with **Python** 🐍.
-- 💼 Interested in connecting with like-minded folks for collaboration and learning new things.
-- 🔭 Always looking for new ways to use computational approaches in biomedical research.
-
-## What I'm Up To 🧐
-- 🌱 Exploring cool bioinformatics projects and learning as much Python as I can.
-- 💡 Looking for **remote work** and **open-source projects** to contribute to!
-
-## Let's Connect! 🌐
-If you're into **pharmacology**, **bioinformatics**, or just want to talk tech, feel free to reach out! 📫
-
-📧 Email: [chriswang001121@gmail.com](mailto:chriswang001121@gmail.com)
-
-Looking forward to chatting with fellow science geeks, coders, or anyone who wants to say hi! 👋😎
+> Bioinformatics researcher | Omics data explorer | Visual storyteller
 
 ---
 
-> *"Science is about knowing; engineering is about doing."* - Henry Petroski
+### 🎉 About Me
+
+- 🌿 **Current Focus**: Multi-omics analysis of cutaneous squamous cell carcinoma (CSCC)
+- ⚖️ Investigating the **4EBP1-mTOR signaling axis** through transcriptomics, proteomics, genomics, and single-cell data
+- ⚙️ Passionate about **data visualization**, **reproducible research**, and scientific storytelling
+- ☕ Always learning: R | Python | Linux | Git | scRNA-seq
 
 ---
 
-Thanks for stopping by! Keep coding, keep exploring, and have fun! ✨
+### 🏃️ Projects
+
+- **scFlowKit**: A learning project documenting my scRNA-seq journey
+- **bioPalette**: A modular color palette system for biological data visualization in R
+- **MR-Omics**: Mendelian Randomization toolkit across omics layers (in progress)
+
+---
+
+### 📅 Currently working on
+
+- Writing my **graduation thesis** on 4EBP1 in CSCC
+- Preparing a manuscript for **SCI publication**
+- Learning full-stack reproducible workflows in **bioinformatics**
+
+---
+
+### ✨ Let's Connect
+
+- Gmail: evanzhou.bio@gmail.com
+- Blog (soon): [evanzhou.bio](https://evanzhou.bio)
+- GitHub Projects: Check my pinned repos below 👇
+
+---
+
+_Thanks for stopping by! Stay curious, stay creative._ 🚀
+
