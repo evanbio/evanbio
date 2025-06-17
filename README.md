@@ -35,9 +35,9 @@
 
 - 📧 Gmail: evanzhou.bio@gmail.com
 - 🌍 Blog: [blog.evanzhou.org](https://blog.evanzhou.org)
-- 📄 CV: academic.evanzhou.org
-- 🎨 Portfolio: portfolio.evanzhou.org
-- 📁 Résumé: resume.evanzhou.org
+- 📄 CV: [academic.evanzhou.org](https://academic.evanzhou.org/)
+- 🎨 Portfolio: [portfolio.evanzhou.org](https://portfolio.evanzhou.org/)
+- 📁 Résumé: [resume.evanzhou.org](https://resume.evanzhou.org/)
 - 💻 GitHub Projects: Check my pinned repos below 👇
 
 ---
