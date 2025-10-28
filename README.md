@@ -38,13 +38,7 @@ A comprehensive learning project documenting my scRNA-seq analysis journey
 </td>
 <td width="50%">
 
-#### 🎨 bioPalette
-Modular color palette system for biological data visualization in R
-- Publication-ready color schemes
-- Accessibility-focused design
-- Easy integration with ggplot2
-
-[🔗 View Project →](https://github.com/evanbio/bioPalette)
+#### 📖 logbookA continuously updated knowledge documentation hub- Bioinformatics tutorials and technical notes- Programming guides (R, Python, Linux)- Research workflows and best practices[🔗 View Documentation →](https://docs.evanzhou.org)
 
 </td>
 </tr>
