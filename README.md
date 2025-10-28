@@ -38,7 +38,13 @@ A comprehensive learning project documenting my scRNA-seq analysis journey
 </td>
 <td width="50%">
 
-#### 📖 logbookA continuously updated knowledge documentation hub- Bioinformatics tutorials and technical notes- Programming guides (R, Python, Linux)- Research workflows and best practices[🔗 View Documentation →](https://docs.evanzhou.org)
+#### 📖 logbook
+A continuously updated knowledge documentation hub
+- Bioinformatics tutorials and technical notes
+- Programming guides (R, Python, Linux)
+- Research workflows and best practices
+
+[🔗 View Documentation →](https://docs.evanzhou.org)
 
 </td>
 </tr>
