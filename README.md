@@ -77,11 +77,6 @@ Bioinformatics blog sharing insights from research
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=evanbio&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanbio&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=evanbio&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 
 <br/>
