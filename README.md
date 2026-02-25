@@ -1,14 +1,10 @@
 <div align="center">
 
-# Evan Zhou 🧬 | Bioinformatics | Multi-omics Explorer 🔬
+# Hi, I'm Evan Zhou 👋
 
-</div>
+🧬 Bioinformatics · Multi-omics · Single-cell Analysis
 
-<div align="center">
-
-### Hi there, I'm Evan Zhou 👋
-
-🧬 I am a bioinformatics enthusiast with passion for multi-omics data analysis and visualization. I love exploring single-cell data, building reproducible research workflows, and uncovering insights from complex biological datasets.
+Exploring biological complexity through data — building reproducible workflows and open-source tools for computational biology.
 
 </div>
 
@@ -16,6 +12,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/evanbio?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/evanbio?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=evanbio&color=blueviolet&style=flat)
 
 </div>
 
@@ -57,7 +54,7 @@ Lightweight toolkit for data wrangling and visualization
 - Custom plotting functions
 - Data manipulation utilities
 
-[🔗 View Project →](https://github.com/evanbio/evanverse)
+[🔗 GitHub →](https://github.com/evanbio/evanverse) · [📚 Docs →](https://evanbio.github.io/evanverse/)
 
 </td>
 <td width="50%">
@@ -76,72 +73,26 @@ Bioinformatics blog sharing insights from research
 
 ---
 
-### 📚 Latest Blog Posts & Resources
-
-- [Complete Guide to Single-cell RNA-seq Analysis](https://blog.evanzhou.org)
-- [Multi-omics Integration in Cancer Research](https://blog.evanzhou.org)
-- [Reproducible Workflows in Bioinformatics](https://blog.evanzhou.org)
-- [Data Visualization Best Practices for Biological Data](https://blog.evanzhou.org)
-
----
-
 ### 🔥 GitHub Profile Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+<img src="https://github-readme-stats.vercel.app/api?username=evanbio&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanbio&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-#### 📊 Evan Zhou's GitHub Stats
+<br/>
 
-⭐ **Total Stars Earned**: Growing
-💻 **Total Commits**: Active contributor
-📝 **Total PRs**: Open source supporter
-🐛 **Total Issues**: Community engaged
-📦 **Contributed to (last year)**: Expanding network
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evanbio&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 
-</td>
-<td>
+<br/>
 
-#### 🎯 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evanbio&layout=compact&theme=radical)
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api?username=evanbio&show_icons=true&theme=radical" alt="GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evanbio/evanbio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evanbio/evanbio/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/evanbio/evanbio/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
-
----
-
-### 🌟 Current Research Focus
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🧬 Research Projects
-- Multi-omics analysis of cutaneous squamous cell carcinoma (CSCC)
-- Investigating the mTOR-4E-BP1 signaling axis
-- Integrating transcriptomics, proteomics, genomics, and single-cell data
-- Preparing manuscript for SCI publication
-
-</td>
-<td width="50%">
-
-#### 🎓 Professional Development
-- Learning full-stack reproducible workflows
-- Studying for TOEFL exam
-- Planning PhD applications in computational biology
-- Contributing to open-source bioinformatics tools
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -156,10 +107,22 @@ Bioinformatics blog sharing insights from research
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white)
+
+**Bioinformatics**
+
+![Seurat](https://img.shields.io/badge/Seurat-1565C0?style=for-the-badge&logoColor=white)
+![Scanpy](https://img.shields.io/badge/Scanpy-1B5E20?style=for-the-badge&logoColor=white)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-2E7D32?style=for-the-badge&logoColor=white)
+![Snakemake](https://img.shields.io/badge/Snakemake-E67E22?style=for-the-badge&logoColor=white)
+![DESeq2](https://img.shields.io/badge/DESeq2-7B1FA2?style=for-the-badge&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-FF6F00?style=for-the-badge&logo=r&logoColor=white)
 
 **Specializations**
 
-`Data Visualization` • `Multi-omics Integration` • `Single-cell Analysis` • `Statistical Modeling` • `Reproducible Research`
+`Multi-omics Integration` • `Single-cell Analysis` • `Data Visualization` • `Statistical Modeling` • `Reproducible Research`
 
 </div>
 
