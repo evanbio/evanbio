@@ -4,7 +4,9 @@
 
 🧬 Bioinformatics · Multi-omics · Single-cell Analysis
 
-Exploring biological complexity through data — building reproducible workflows and open-source tools for computational biology.
+Computational biology researcher focused on cancer, immunology, single-cell omics, and machine learning.
+
+Exploring biological complexity through data — building reproducible workflows and open-source tools for biomedical research.
 
 </div>
 
@@ -22,24 +24,34 @@ Exploring biological complexity through data — building reproducible workflows
 
 | Project | Description |
 |---------|-------------|
-| [ukbflow](https://github.com/evanbio/ukbflow) | UK Biobank data processing and analysis workflow |
-| [evanverse](https://github.com/evanbio/evanverse) | Lightweight R toolkit for data wrangling and visualization · [Docs](https://evanbio.github.io/evanverse/) |
+| [ukbflow](https://github.com/evanbio/ukbflow) | Reproducible workflow for UK Biobank-scale data processing and analysis |
+| [evanverse](https://github.com/evanbio/evanverse) | Lightweight R toolkit for data wrangling, visualization, and analysis · [Docs](https://evanbio.github.io/evanverse/) |
 | [Blog](https://blog.evanzhou.org) | Personal blog — thoughts, tutorials, and notes on things I find interesting |
 | [Docs](https://docs.evanzhou.org) | Personal knowledge hub — notes, guides, and workflows I've built up over time |
+
+---
+
+### 🧭 Current Focus
+
+- Cancer biology
+- Immunology
+- Single-cell omics
+- Machine learning for biomedical data
 
 ---
 
 ### 💼 Technical Skills
 
 **Languages:** R · Python · Bash · Linux  
-**Bioinformatics:** Seurat · Scanpy · Snakemake · DESeq2 · Bioconductor  
-**Tools:** Git · Docker · Jupyter · Quarto
+**Single-cell & Omics:** Seurat · Scanpy · DESeq2 · Bioconductor  
+**Workflows:** Snakemake · Docker · Quarto  
+**Tools:** Git · Jupyter
 
 ---
 
 ### 📫 Connect
 
-[Email](mailto:evanzhou.bio@gmail.com) · [Blog](https://blog.evanzhou.org) · [CV](https://academic.evanzhou.org/) · [Resume](https://resume.evanzhou.org/)
+[Email](mailto:evanzhou.bio@gmail.com) · [Blog](https://blog.evanzhou.org) · [Docs](https://docs.evanzhou.org) · [Academic CV](https://academic.evanzhou.org/)
 
 ---
 
