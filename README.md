@@ -15,6 +15,7 @@ Exploring biological complexity through data — building reproducible workflows
 ![GitHub followers](https://img.shields.io/github/followers/evanbio?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/evanbio?style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=evanbio&color=blueviolet&style=flat)
+[![GitHub Roast](https://githubroast.dev/api/badge/evanbio)](https://githubroast.dev/u/evanbio)
 
 </div>
 
