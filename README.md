@@ -28,16 +28,16 @@ Exploring biological complexity through data — building reproducible workflows
 | [ukbflow](https://github.com/evanbio/ukbflow) | Reproducible workflow for UK Biobank-scale data processing and analysis |
 | [evanverse](https://github.com/evanbio/evanverse) | Lightweight R toolkit for data wrangling, visualization, and analysis · [Docs](https://evanbio.github.io/evanverse/) |
 | [Blog](https://blog.evanzhou.org) | Personal blog — thoughts, tutorials, and notes on things I find interesting |
-| [Docs](https://docs.evanzhou.org) | Personal knowledge hub — notes, guides, and workflows I've built up over time |
+| [Folio](https://folio.evanzhou.org) | What I've read, practiced, and used — papers, guides, kata, tools, and more |
 
 ---
 
 ### 🧭 Current Focus
 
-- Cancer biology
-- Immunology
-- Single-cell omics
-- Machine learning for biomedical data
+- Skin biology · cancer immunology · disease mechanisms
+- Single-cell · multi-omics · machine learning
+- R · Python · reproducible research
+- Fudan University · Shanghai
 
 ---
 
@@ -52,7 +52,7 @@ Exploring biological complexity through data — building reproducible workflows
 
 ### 📫 Connect
 
-[Email](mailto:evanzhou.bio@gmail.com) · [Blog](https://blog.evanzhou.org) · [Docs](https://docs.evanzhou.org) · [Academic CV](https://academic.evanzhou.org/)
+[Email](mailto:evanzhou.bio@gmail.com) · [Blog](https://blog.evanzhou.org) · [Folio](https://folio.evanzhou.org) · [LinkedIn](https://www.linkedin.com/in/yibin-zhou) · [evanzhou.org](https://evanzhou.org)
 
 ---
 
