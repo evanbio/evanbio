@@ -26,7 +26,7 @@ Exploring biological complexity through data — building reproducible workflows
 | Project | Description |
 |---------|-------------|
 | [ukbflow](https://github.com/evanbio/ukbflow) | Reproducible workflow for UK Biobank-scale data processing and analysis |
-| [evanverse](https://github.com/evanbio/evanverse) | Lightweight R toolkit for data wrangling, visualization, and analysis · [Docs](https://evanbio.github.io/evanverse/) |
+| [biopalette](https://github.com/evanbio/biopalette) | Image-inspired color palettes for biomedical visualization · [Docs](https://evanbio.github.io/biopalette/) |
 | [Blog](https://blog.evanzhou.org) | Personal blog — thoughts, tutorials, and notes on things I find interesting |
 | [Folio](https://folio.evanzhou.org) | What I've read, practiced, and used — papers, guides, kata, tools, and more |
 
