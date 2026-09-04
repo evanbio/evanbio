@@ -15,7 +15,6 @@ Exploring biological complexity through data — building reproducible workflows
 ![GitHub followers](https://img.shields.io/github/followers/evanbio?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/evanbio?style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=evanbio&color=blueviolet&style=flat)
-[![GitHub Roast](https://githubroast.dev/api/badge/evanbio)](https://githubroast.dev/u/evanbio)
 
 </div>
 
@@ -57,10 +56,6 @@ Exploring biological complexity through data — building reproducible workflows
 ---
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=evanbio&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evanbio/evanbio/output/github-contribution-grid-snake-dark.svg" />
